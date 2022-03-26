@@ -4,9 +4,6 @@ public class ReturnValues {
         System.out.println(measureRectangle(4.3, 8.4, "perimeter")); 
         System.out.println(measureRectangle(3.2, 4.1, "area"));
 
-        
-
-        
     }
     /**
      * Function name: measureRectangle
@@ -40,18 +37,9 @@ public class ReturnValues {
             return ("Sorry , the calculation was not permitted");
 
         }
-
+        }; 
         
-
-
-
-        };
-        
-
-        
-        
-        
-    }
+    };
 
 
 
